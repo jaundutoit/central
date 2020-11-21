@@ -31,6 +31,26 @@
   "foreignLayerStyles": [
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "9762B45A-D1D7-4A10-B7E9-905DE6C1DC26",
+      "libraryID": "83695E26-0360-4990-A5B1-67D618E5235D",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "649C047A-8EEB-4187-B010-38A0FCA065DA",
+        "name": "8. grass green",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2235294133424759,
+          "green": 0.5882353186607361,
+          "red": 0
+        }
+      },
+      "remoteSwatchID": "8B57948C-3053-4F47-B9A2-F3F15C029468",
+      "sourceLibraryName": "Nedbank Web (DSM)",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
