@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "80FE5E0D-A158-4264-A032-66557E28B34B",
+  "do_objectID": "88E836C0-895D-47C0-923D-DE747D453B4A",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 375,
-    "x": 0,
-    "y": 1070
+    "height": 162,
+    "width": 325,
+    "x": 25,
+    "y": 800
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "bottom_navbar",
+  "name": "account-card copy 3",
   "nameIsFixed": true,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "94D7E8FC-27E6-4DA3-8385-2B813BC6C466",
+    "do_objectID": "3464C28E-6134-49FD-A0E8-3FF3021B559C",
     "endMarkerType": 0,
     "fills": [
       {
@@ -173,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.900192481884058,
-          "green": 0.900192481884058,
-          "red": 0.900192481884058
+          "blue": 1,
+          "green": 0.5463179123598868,
+          "red": 0.3156821646341463
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
