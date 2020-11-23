@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6370C0CD-9546-4577-BEBF-7DE8EEEF6A2C",
+  "do_objectID": "284CE55B-3AEC-4B87-8A42-D4D9D93DB226",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,7 +20,7 @@
     "height": 162,
     "width": 325,
     "x": 25,
-    "y": 266
+    "y": 1156
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "account-card",
+  "name": "account-card copy 5",
   "nameIsFixed": true,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CA194185-27D9-477C-8FF0-BDDB83D3AA85",
+    "do_objectID": "DB0C3077-2020-4452-AC12-023959C943D3",
     "endMarkerType": 0,
     "fills": [
       {
