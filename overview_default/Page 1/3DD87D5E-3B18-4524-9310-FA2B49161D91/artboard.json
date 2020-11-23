@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1576,
+    "height": 1590,
     "width": 375,
     "x": 305,
     "y": 48
@@ -47,11 +47,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "80FE5E0D-A158-4264-A032-66557E28B34B"
+      "class": "symbolInstance",
+      "id": "71F7BE25-9236-49A4-ADB8-6AB998EF4A98"
     },
     {
       "class": "rectangle",
