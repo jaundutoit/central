@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1576,
+    "height": 686,
     "width": 375,
     "x": 305,
     "y": 48
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -67,27 +67,7 @@
     },
     {
       "class": "rectangle",
-      "id": "1D727BC5-DA9F-4571-AFE3-B61216F0342B"
-    },
-    {
-      "class": "rectangle",
       "id": "6370C0CD-9546-4577-BEBF-7DE8EEEF6A2C"
-    },
-    {
-      "class": "rectangle",
-      "id": "2B2D3839-39D4-4E52-8D0A-B9891AF2D828"
-    },
-    {
-      "class": "rectangle",
-      "id": "284CE55B-3AEC-4B87-8A42-D4D9D93DB226"
-    },
-    {
-      "class": "rectangle",
-      "id": "88E836C0-895D-47C0-923D-DE747D453B4A"
-    },
-    {
-      "class": "rectangle",
-      "id": "19280B3B-AB4E-4590-879D-EDA68BBCA469"
     }
   ],
   "name": "iPhone 8",
